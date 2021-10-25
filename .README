@@ -1,0 +1,7 @@
+expo init nameApplication
+
+expo start
+
+expo install expo-app-loading
+
+expo install react-native-svg
